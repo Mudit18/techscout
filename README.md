@@ -1,1 +1,1 @@
-# Techs Scout
+# Tech Scout
